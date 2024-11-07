@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array.cs" />
+    <Compile Include="ProverkaBukv.cs" />
+    <Compile Include="StartLeter.cs" />
+    <Compile Include="MinEl.cs" />
+    <Compile Include="MinMaxDiff.cs" />
+    <Compile Include="FileProcessor.cs" />
+    <Compile Include="Proverka.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
